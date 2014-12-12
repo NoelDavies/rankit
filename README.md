@@ -54,4 +54,4 @@ You can see a list of changes for each release in [our changelog file](changelog
 
 ## License
 
-The Mozilla Public License 2.0 (MPL-2.0). Please see [the license file](license.md) for more information.
+The Mozilla Public License 2.0 (MPL-2.0). Please see [the license file](license) for more information.
