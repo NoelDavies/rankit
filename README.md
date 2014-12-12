@@ -6,6 +6,39 @@ Inspired by [Ideadrop](http://ideadrop.co), with help from [xLink](http://github
 
 > **Warning:** This package is currently in alpha stage. This means that there is no guarantee that the current structure, contracts, terminology and/or implementations will stay the same until the package hits stable. Please do not use this in production until a stable release it out.
 
+## Table of Contents
+
+- [Terminology](#terminology)
+- [Features](#features)
+- [Introduction](#introduction)
+- [Drivers](#drivers)
+- [Roadmap](#roadmap)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Maintainer](#maintainer)
+- [Contributing](#contributing)
+- [Changelog](#changelog)
+- [License](#license)
+- 
+
+## Terminology
+coming soon
+
+## Features
+coming soon
+
+## Introduction
+coming soon
+
+## Roadmap
+coming soon
+
+## Installation
+coming soon
+
+## Usage
+coming soon
+
 ## Maintainer
 
 This package is currently maintained by [Daniel Noel-Davies](https://github.com/noeldavies).  
